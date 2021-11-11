@@ -7,7 +7,8 @@ Who doesn't like video games? Video games have become a favorite pastime for mos
 # Design 
 This project is one of the T5 Data Science Boot Camp requirements. Data provided by Kaggle & data. world have been used in this project. In this module, we will be laying the foundation for our analysis by processing and exploring a large amount of data on video game sales. The dataset contains information regarding the sales of video games across various regions like North America, Europe, Japan and globally, while also giving information regarding the Names, Publishers and Platforms. This dataset has been made available thanks to Kaggle which is the home for many such datasets and competitions. Get the data here.
 
-# You are a data scientist in the gaming industry and want to analyze the sales pattern for different features. You want to investigate different features and approach the game producer with a thorough report. You want to find the answers to the following questions:
+You are a data scientist in the gaming industry and want to analyze the sales pattern for different features. You want to investigate different features and approach the game producer with a thorough report. You want to find the answers to the following questions:
+
 1.	Which region has performed the best in terms of sales?
 2.	What are the top 10 games currently making the most sales globally?
 3.	What are the top games for different regions?
@@ -31,7 +32,7 @@ After this module, we should be able to do the following:
 # Understanding the dataset
 This dataset contains a list of video games with sales greater than 100,000 copies. In this data set there are 11 columns. Their names and data types as follows:
 
-Fields include
+Fields include:
 
 •	Rank - Ranking of overall sales
 
@@ -57,6 +58,20 @@ Fields include
 
 •	Use plotly library to visualize the given results.
 
- 
+# Algorithms
+•	Cleaning the data and remove null values 
+•	Transform the text data in sales to numbers.
 
-6-Plot graphs like bar graphs and pie charts
+# Tools
+•	Pandas for data manipulation
+•	Scikit-learn for modeling
+•	re for clean data
+•	Matplotlib for plotting 
+•	Plotty for visualizations
+•	World cloud 
+
+# Communication 
+•	The slides will be provided here, Feel free to any pull requests.
+
+
+
