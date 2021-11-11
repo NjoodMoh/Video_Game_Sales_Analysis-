@@ -19,9 +19,9 @@ This project is one of the T5 Data Science Boot Camp requirements. Data provided
 
 # Learning Objectives
 After this module, we should be able to do the following:
-Use panda’s library to analyze different features of the dataset, which includes,
-Read the dataset.
-Use functions like df. query and df. group by.
-Analyze the sales for different regions with respect to various features.
-2. Use plotly library to visualize the given results.
-Plot graphs like bar graphs and pie charts
+1-Use panda’s library to analyze different features of the dataset, which includes,
+2-Read the dataset.
+3-Use functions like df. query and df. group by.
+4-Analyze the sales for different regions with respect to various features.
+5- Use plotly library to visualize the given results.
+6-Plot graphs like bar graphs and pie charts
