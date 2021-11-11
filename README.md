@@ -32,19 +32,31 @@ After this module, we should be able to do the following:
 This dataset contains a list of video games with sales greater than 100,000 copies. In this data set there are 11 columns. Their names and data types as follows:
 
 Fields include
+
 •	Rank - Ranking of overall sales
+
 •	Name - The games name
+
 •	Platform - Platform of the games release (i.e. PC, PS4, etc.)
+
 •	Year - Year of the game's release
+
 •	Genre - Genre of the game
+
 •	Publisher - Publisher of the game
+
 •	NA_Sales - Sales in North America (in millions)
+
 •	EU_Sales - Sales in Europe (in millions)
+
 •	JP_Sales - Sales in Japan (in millions)
+
 •	Other_Sales - Sales in the rest of the world (in millions)
+
 •	Global_Sales - Total worldwide sales.
 
+•	Use plotly library to visualize the given results.
 
-5- Use plotly library to visualize the given results.
+ 
 
 6-Plot graphs like bar graphs and pie charts
