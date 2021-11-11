@@ -19,6 +19,7 @@ This project is one of the T5 Data Science Boot Camp requirements. Data provided
 
 # Learning Objectives
 After this module, we should be able to do the following:
+
 1-Use panda’s library to analyze different features of the dataset, which includes,
 2-Read the dataset.
 3-Use functions like df. query and df. group by.
