@@ -59,15 +59,23 @@ Fields include:
 •	Use plotly library to visualize the given results.
 
 # Algorithms
+
 •	Cleaning the data and remove null values 
+
 •	Transform the text data in sales to numbers.
 
 # Tools
+
 •	Pandas for data manipulation
+
 •	Scikit-learn for modeling
+
 •	re for clean data
+
 •	Matplotlib for plotting 
+
 •	Plotty for visualizations
+
 •	World cloud 
 
 # Communication 
