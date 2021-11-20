@@ -9,25 +9,11 @@ This project is one of the T5 Data Science Boot Camp requirements. Data provided
 
 You are a data scientist in the gaming industry and want to analyze the sales pattern for different features. You want to investigate different features and approach the game producer with a thorough report. You want to find the answers to the following questions:
 
-1.	Which region has performed the best in terms of sales?
-2.	What are the top 10 games currently making the most sales globally?
-3.	What are the top games for different regions?
-4.	Are there any games with release year older than 2000 that are still making high sales? What are they?
-5.	What are the top gaming genres that are making high sales?
-6.	Does the publisher have any impact on the regional sales?
-7.	Is there any region that has out-performed global average sales?
+1. Which genre  has the higest sales globally ?
+2. what are the top platform for different regions?
+3. What are the top 5 Platform making the most sales globally?
+4. Which Platform  has the higest sales globally ?
 
-
-# Learning Objectives
-After this module, we should be able to do the following:
-
-1-Use panda’s library to analyze different features of the dataset, which includes,
-
-2-Read the dataset.
-
-3-Use functions like df. query and df. group by.
-
-4-Analyze the sales for different regions with respect to various features.
 
 # Understanding the dataset
 This dataset contains a list of video games with sales greater than 100,000 copies. In this data set there are 11 columns. Their names and data types as follows:
@@ -56,30 +42,45 @@ Fields include:
 
 •	Global_Sales - Total worldwide sales.
 
-•	Use plotly library to visualize the given results.
+•	User_Review - The review of game by user.
+
+•	Meta_Score - The score from 1 to 100 by the review aggregator Metacritic.
+
+•	Release_date - The date of game released .
+
+
 
 # Algorithms
 
-•	Cleaning the data and remove null values 
+1- Use panda’s library to analyze different features of the dataset.
 
-•	Transform the text data in sales to numbers.
+2- Read the dataset.
+
+3- Cleaning the data and remove null values.
+
+4- Remove the outlier from dataset.
+
+5- Analyze the sales for different regions with respect to various features.
+
+6- Use seaborn and matplotlib library to visualize the given results.
+
+7- Plot graphs like bar graphs and pie charts.
 
 # Tools
 
-•	Pandas for data manipulation
+•Pandas for data manipulation 
 
-•	Scikit-learn for modeling
+• IQR for discover outliers
 
-•	re for clean data
+• Remove Duplicate or unnecessary data
 
-•	Matplotlib for plotting 
+• Matplotlib for plotting
 
-•	Plotty for visualizations
-
-•	World cloud 
+• Seaborn for visualizations
 
 # Communication 
-•	The slides will be provided here, Feel free to any pull requests.
+•The slides will be provided here, Feel free to any pull requests besides details are provided at
+the readme of the project	.
 
 
 
