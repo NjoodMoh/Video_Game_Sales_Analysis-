@@ -10,9 +10,9 @@ This project is one of the T5 Data Science Boot Camp requirements. Data provided
 You are a data scientist in the gaming industry and want to analyze the sales pattern for different features. You want to investigate different features and approach the game producer with a thorough report. You want to find the answers to the following questions:
 
 1. Which genre  has the higest sales globally ?
-2. what are the top platform for different regions?
+2. What are the top 5 platform for different regions?
 3. What are the top 5 Platform making the most sales globally?
-4. Which Platform  has the higest sales globally ?
+4. Which Platform and genre has the higest sales globally in 2016?
 
 
 # Understanding the dataset
